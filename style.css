@@ -34,7 +34,7 @@ body {
 
 #searchInput:focus { border-color: var(--primary-color); }
 
-/* 表格基礎樣式 */
+/* 表格基礎樣式  */
 table {
     width: 100%;
     border-collapse: collapse;

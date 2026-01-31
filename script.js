@@ -1,6 +1,6 @@
 // 模擬數據源
 const data = [
-    { id: 1, name: "張小明", role: "前端工程師1", dept: "技術部", status: "active" },
+    { id: 1, name: "張小明", role: "前端工程師", dept: "技術部", status: "active" },
     { id: 2, name: "李華", role: "產品經理", dept: "產品部", status: "pending" },
     { id: 3, name: "王大同", role: "UI 設計師", dept: "設計部", status: "active" },
     { id: 4, name: "趙敏", role: "後端工程師", dept: "技術部", status: "active" },
